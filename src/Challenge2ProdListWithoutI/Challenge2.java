@@ -1,4 +1,4 @@
-package Challenge2;
+package Challenge2ProdListWithoutI;
 
 public class Challenge2 {
 
@@ -22,8 +22,6 @@ public class Challenge2 {
     /* Do the same without dividing*/
 
     public static int[] solve2(int[] numbers){
-
-        int prod = 1;
 
         int[] left = new int[numbers.length];
         int[] right = new int[numbers.length];

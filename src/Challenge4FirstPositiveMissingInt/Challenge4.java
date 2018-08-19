@@ -1,4 +1,4 @@
-package Challenge4;
+package Challenge4FirstPositiveMissingInt;
 
 import java.util.Arrays;
 

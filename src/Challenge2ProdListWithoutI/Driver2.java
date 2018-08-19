@@ -1,4 +1,4 @@
-package Challenge2;
+package Challenge2ProdListWithoutI;
 
 public class Driver2 {
 

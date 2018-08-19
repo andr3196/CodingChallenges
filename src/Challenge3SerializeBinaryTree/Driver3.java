@@ -1,4 +1,4 @@
-package Challenge3;
+package Challenge3SerializeBinaryTree;
 
 public class Driver3 {
 

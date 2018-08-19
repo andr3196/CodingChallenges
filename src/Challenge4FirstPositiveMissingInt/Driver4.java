@@ -1,4 +1,4 @@
-package Challenge4;
+package Challenge4FirstPositiveMissingInt;
 
 public class Driver4 {
 

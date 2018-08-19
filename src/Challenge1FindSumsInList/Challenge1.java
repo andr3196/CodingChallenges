@@ -1,4 +1,4 @@
-package Challenge1;
+package Challenge1FindSumsInList;
 
 import com.sun.tools.javac.util.Pair;
 
